@@ -32,7 +32,7 @@ while True:
     result = None
 
     if not num1.isdigit() or not num2.isdigit():
-        print("Those aren't numbers!")
+        print("Those aren't numbers!!")
         continue
 
     # We have to cast each value we pass to an arithmetic function from a
